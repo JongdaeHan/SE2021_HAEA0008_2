@@ -26,4 +26,22 @@
 
 조별 저장소 링크
 ---
-`TODO`
+1. https://github.com/SMU-Nolja/SWE
+
+2. https://github.com/LAH1203/Software_Engineering_Project
+
+3. https://github.com/Jeeseob/SoftwareEngineering
+
+4. https://github.com/dbwltkd1231/-_4-
+
+5. https://github.com/SE-Project-5/SE-Project
+
+6. https://github.com/paladyn12/SoftwareEngineering_TeamProject
+
+7. https://github.com/thgus5335/SE_project
+
+8. https://github.com/2ralumin/SE_Project_8
+
+9. https://github.com/KBY538/software-engineering-team-project
+
+
