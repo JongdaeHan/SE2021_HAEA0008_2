@@ -1,0 +1,24 @@
+[submodule "SWE"]
+	path = SWE
+	url = https://github.com/SMU-Nolja/SWE
+[submodule "Software_Engineering_Project"]
+	path = Software_Engineering_Project
+	url = https://github.com/LAH1203/Software_Engineering_Project
+[submodule "SoftwareEngineering"]
+	path = SoftwareEngineering
+	url = https://github.com/Jeeseob/SoftwareEngineering
+[submodule "SE-Project"]
+	path = SE-Project
+	url = https://github.com/SE-Project-5/SE-Project
+[submodule "SoftwareEngineering_TeamProject"]
+	path = SoftwareEngineering_TeamProject
+	url = https://github.com/paladyn12/SoftwareEngineering_TeamProject
+[submodule "SE_project"]
+	path = SE_project
+	url = https://github.com/thgus5335/SE_project
+[submodule "SE_Project_8"]
+	path = SE_Project_8
+	url = https://github.com/2ralumin/SE_Project_8
+[submodule "software-engineering-team-project"]
+	path = software-engineering-team-project
+	url = https://github.com/KBY538/software-engineering-team-project
