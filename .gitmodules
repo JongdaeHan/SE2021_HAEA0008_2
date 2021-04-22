@@ -22,3 +22,6 @@
 [submodule "software-engineering-team-project"]
 	path = software-engineering-team-project
 	url = https://github.com/KBY538/software-engineering-team-project
+[submodule "SMU_SE_4"]
+	path = SMU_SE_4
+	url = https://github.com/dbwltkd1231/SMU_SE_4
