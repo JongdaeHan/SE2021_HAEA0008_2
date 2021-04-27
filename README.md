@@ -32,7 +32,7 @@
 
 3. https://github.com/Jeeseob/SoftwareEngineering
 
-4. https://github.com/dbwltkd1231/-_4-
+4. https://github.com/dbwltkd1231/SMU_SE_4/
 
 5. https://github.com/SE-Project-5/SE-Project
 
